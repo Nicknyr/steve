@@ -1,0 +1,39 @@
+<div class="panel">
+    <div class="panelContainer">
+        <div class="row">
+            <ul id="panelList">
+				<div class="col-md-12">
+                    <div class="col-md-2 col-md-offset-1">
+                        <li class="panelGrid">
+					<span class="columns">
+						<h3 class="h3titles">Workshops</h3>
+                        <hr>
+						<p>The primary purpose of our club is to collaborate and learn web development. Our club does this by members regularly teaching workshops on web related technologies</p>
+					</span>
+				</li>
+			</div>
+			<span class="col-md-2 col-md-offset-2">
+				<li class="panelGrid">
+					<span class="span">
+						<h3 class="h3titles">On Campus</h3>
+                        <hr>
+						<p>Our club regularly hosts on campus events open to all Hunter students. Any student interested is encouraged to attend and our events are appropriate for any skill level</p>
+					</span>
+				</li>
+			</span>
+				<span class="col-md-2 col-md-offset-2">
+					<div class="panelGrid">
+						<span class="span">
+							<h3 class="h3titles">Off Campus</h3>
+                            <hr>
+							<p>The club also explores off campus get togethers and meetups throughout NYC.Seminars, meetup groups, and hackathons etc...</p>
+                            </span>
+                        </div>
+					</li>
+                    </span>
+				</div>
+			  </div>
+			</ul>
+		</div>
+	 </div>
+	</div>
